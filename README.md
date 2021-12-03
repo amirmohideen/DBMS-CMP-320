@@ -5,7 +5,7 @@ Database Management System made using Java Eclipse and Apache Netbeans
 <H2>DESCRIPTION: </H2> 
 
 This project will develop a database for owners or managers of online e-commerce watch stores in order to store order information about customers that bought watches from specific stores. <br> 
-<li>Stores will have customers. <br>
+•	Stores will have customers. <br>
 •	Customers can buy from stores. <br>
 •	Stores will have stocks of different watch brands. <br>
 •	Customers will have a unique SSN, first name, last name, email, mobile number, and gender. <br>
