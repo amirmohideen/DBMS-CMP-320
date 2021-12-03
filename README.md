@@ -7,7 +7,7 @@ This project will develop a database for owners or managers of online e-commerce
 
 FUNCTIONALITIES:
 
-•	Will be able to allow users to view all details about customers, online stores and watches
+•	Will be able to allow users to view all details about customers, online stores and watches <br>
 •	Insert, update, delete, view customers
 •	Insert, update, delete, view online stores
 •	Insert, update, delete, view watches
